@@ -14,6 +14,7 @@ public class ExemploVariaveis {
         System.out.println("Genero: " + genero);
         System.out.println("Está chovendo? "+ estaChovendo);
         System.out.println("Nome: "+ nome);
-        System.out.println(nome + " tem " + idade + " anos de idade.");
+        System.out.println(nome + " tem " + idade + " anos " +
+                "de idade.");
     }
 }
