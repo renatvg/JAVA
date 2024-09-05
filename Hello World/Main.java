@@ -16,8 +16,7 @@ public class Main {
 		
 		
 		JLabel labelNome = new JLabel("Nome: "); 
-		labelNome.setBounds(20, 20, 50, 20);
-		
+		labelNome.setBounds(20, 20, 50, 20);	
 		JTextField campoTextoNome = new JTextField(); 
 		campoTextoNome.setBounds(20, 40, 200, 20);
 
