@@ -9,7 +9,7 @@ public class votar {
         int anonasc = leitorTeclado.nextInt();
 
         int idade = 2024 - anonasc;
-        
+
         if (idade>=18) {
             System.out.println("Você é maior de idade, e pode votar");
         } else if (idade>=16) {
