@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5a203bf-dcac-47ef-871c-7d9d6a471921" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/poo/primeraclasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitHub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello World/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/contagemdeletras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/anobissexto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/de10a1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/fizzbuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/paresde2a20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/primosde1a50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/exercicios/somade1a100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/loopcomdoewhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/loopcomwhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/loopemfor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/menuinterativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loop/numerospares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/CalculadoIMC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/CalculadoradeIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/ExemploVariaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/NotaTrimestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/Variaveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/classedovalor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/mediade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variaveis/exercicios/votar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/exercicios/aleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/exercicios/maiornumero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/exercicios/mediaentre5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/exercicios/nomesinversoso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/inicializaçãoarrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/iteracaocomarrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/GitHub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/contagemdeletras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/anobissexto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/de10a1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/fizzbuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/paresde2a20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/primosde1a50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/exercicios/somade1a100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/loopcomdoewhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/loopcomwhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/loopemfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/menuinterativo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Loop/numerospares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/CalculadoIMC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/CalculadoradeIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/ExemploVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/NotaTrimestre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/Variaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/classedovalor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/mediade3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/Variaveis/exercicios/votar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/exercicios/aleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/exercicios/maiornumero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/exercicios/mediaentre5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/exercicios/nomesinversoso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/inicializaçãoarrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/arrays/iteracaocomarrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/exercicios/autenticação.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/exercicios/diasdassemana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/exercicios/impostoderenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/exercicios/parouimparcomoperadorternario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/operadorternário.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/switchcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHub/outrosrecursos/valorespadrao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/exercicios/autenticação.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/exercicios/diasdassemana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/exercicios/impostoderenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/exercicios/parouimparcomoperadorternario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/operadorternário.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/switchcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outrosrecursos/valorespadrao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lP7A0wn9ZRVmOlgMzwl98115dr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CalculadoIMC.executor": "Run",
+    "Application.CalculadoradeIdade.executor": "Run",
+    "Application.ExemploVariaveis.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NotaTrimestre.executor": "Run",
+    "Application.aleatorios.executor": "Run",
+    "Application.anobissexto.executor": "Run",
+    "Application.arrayordenado.executor": "Run",
+    "Application.autenticação.executor": "Run",
+    "Application.classedovalor.executor": "Run",
+    "Application.contagemdeletras.executor": "Run",
+    "Application.de10a1.executor": "Run",
+    "Application.diasdassemana.executor": "Run",
+    "Application.fizzbuzz.executor": "Run",
+    "Application.impostoderenda.executor": "Run",
+    "Application.inicializaçãoarrays.executor": "Run",
+    "Application.iteracaocomarrays.executor": "Run",
+    "Application.loopcomdoewhile.executor": "Run",
+    "Application.loopcomwhile.executor": "Run",
+    "Application.loopemfor.executor": "Run",
+    "Application.maiornumero.executor": "Run",
+    "Application.mediade3.executor": "Run",
+    "Application.mediaentre5.executor": "Run",
+    "Application.menuinterativo.executor": "Run",
+    "Application.nomesinversoso.executor": "Run",
+    "Application.numerospares.executor": "Run",
+    "Application.operadorternário.executor": "Run",
+    "Application.paresde2a20.executor": "Run",
+    "Application.parouimparcomoperadorternario.executor": "Run",
+    "Application.primosde1a50.executor": "Run",
+    "Application.quadrado.executor": "Run",
+    "Application.soma.executor": "Run",
+    "Application.somade1a100.executor": "Run",
+    "Application.switchcase.executor": "Run",
+    "Application.triangulo.executor": "Run",
+    "Application.votar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="operadorternário" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="outrosrecursos.operadorternário" />
+      <module name="GitHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="outrosrecursos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.operadorternário" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a203bf-dcac-47ef-871c-7d9d6a471921" name="Changes" comment="" />
+      <created>1725069711269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725069711269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
