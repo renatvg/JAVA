@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5a203bf-dcac-47ef-871c-7d9d6a471921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/arrays/exercicios/arrayordenado.java" afterDir="false" />
-    </list>
+    <list default="true" id="b5a203bf-dcac-47ef-871c-7d9d6a471921" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,6 @@
     "Application.triangulo.executor": "Run",
     "Application.votar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
